@@ -1,0 +1,128 @@
+{
+  "main": {
+    "title": "Mole in the Hole",
+    "btnStart": "START GAME",
+    "btnOptions": "OPTIONS",
+    "btnCredits": "CREDITS",
+    "btnQuit": "QUIT",
+    "btnProfile": "PROFILE"
+  },
+  "options": {
+    "title": "OPTIONS",
+    "langLabel": "Language:",
+    "themeLabel": "Choose a theme:",
+    "theme_meadow": "MEADOW",
+    "theme_volcano": "VOLCANO",
+    "theme_iceflow": "ICE FLOE",
+    "theme_desert": "DESERT",
+    "soundLabel": "Sound effects:",
+    "soundOn": "ON",
+    "soundOff": "OFF",
+    "btnBack": "BACK",
+    "cheatLabel": "CHEAT MODE",
+    "cheatOn": "ENABLED",
+    "cheatOff": "DISABLED"
+  },
+  "credits": {
+    "title": "CREDITS",
+    "algo": "Algorithm: Gwenael and Loïc",
+    "gui": "GUI: David, Gwenael and Abel",
+    "network": "Network: Abel",
+    "music/sfx": "SFX and Music integration: Abel",
+    "basedOn": "Based on «Mole in the Hole» published by Ravensburger, 1995"
+  },
+  "play": {
+    "title": "Choose your mode",
+    "btnLocal": "LOCAL",
+    "btnOnline": "ONLINE",
+    "btnSolo": "SOLO",
+    "btnBack": "BACK"
+  },
+  "profile": {
+    "title": "MY PROFILE",
+    "nameLabel": "Your Nickname:",
+    "colorLabel": "Your Favorite Color",
+    "btnRed": "RED",
+    "btnBlue": "BLUE",
+    "btnGreen": "GREEN",
+    "btnSave": "SAVE & BACK"
+  },
+  "local": {
+    "title": "LOCAL LOBBY",
+    "player": "PLAYER",
+    "colorClick": "Color (Click):",
+    "btnRemove": "Remove",
+    "mode": "MODE: < {0} >",
+    "boards": "BOARD: < {0} >",
+    "btnRotate": "ROTATE",
+    "btnPlace": "PLACE",
+    "btnQuick": "QUICK PLAY",
+    "btnLaunch": "PLAY",
+    "btnBack": "BACK",
+    "btnHuman": "Human",
+    "btnBotEasy": "Bot (easy)",
+    "btnBotMedium": "Bot (medium)"
+  },
+  "online": {
+    "title": "ONLINE LOBBY",
+    "player": "PLAYER",
+    "colorClick": "Color (Click):",
+    "btnRemove": "Remove",
+    "mode": "MODE: < {0} >",
+    "boards": "BOARD: < {0} >",
+    "btnRotate": "ROTATE",
+    "btnPlace": "PLACE",
+    "btnQuick": "QUICK PLAY",
+    "btnLaunch": "PLAY",
+    "btnBack": "BACK",
+    "btnHost": "HOST GAME",
+    "btnJoin": "JOIN GAME",
+    "profileTitle": "YOUR PROFILE",
+    "enteringLobby": "Entering Lobby...",
+    "connectFail": "Failed to connect to {0}!",
+    "btnCreate": "CREATE SERVER",
+    "discoveredGames": "Discovered LAN Games:",
+    "searching": "Searching...",
+    "hostYou": "HOST (YOU)",
+    "you": "YOU",
+    "waitingPlayer": "Waiting for P{0}...",
+    "btnLeave": "LEAVE LOBBY",
+    "btnConfig": "CONFIGURE GAME",
+    "waitingHost": "Waiting for Host to start..."
+  },
+  "rotate": {
+    "title": "BOARD ORIENTATION {0} / 4",
+    "btnLeft": "LEFT",
+    "btnRight": "RIGHT",
+    "btnValidate": "CONFIRM",
+    "btnBack": "BACK",
+    "btnBot": "BOT (AI)",
+    "btnHuman": "HUMAN"
+  },
+  "place": {
+    "title": "PLACEMENT PHASE",
+    "turn": "YOUR TURN, {0}!",
+    "remaining": "Pieces to place: {0} / {1}",
+    "doneTitle": "PLACEMENT COMPLETE!",
+    "btnValidate": "CONFIRM & CONTINUE"
+  },
+  "match": {
+    "title": "LEVEL {0} / {1}",
+    "drawCard": "DRAW CARD",
+    "drawPrompt": "Draw a card to play.",
+    "yourCard": "CARD: {0}",
+    "turnOf": "{0}'S TURN",
+    "movePrompt": "Select a destination",
+    "selectPrompt": "Select one of your moles",
+    "btnPass": "PASS TURN",
+    "deckTitle": "DECK",
+    "cheatFill": "[ FILL HOLES ]"
+  },
+  "end": {
+    "title": "GAME OVER",
+    "winner": "PLAYER {0} WINS!",
+    "btnReplay": "REPLAY (SAME SETTINGS)",
+    "btnLobby": "BACK TO LOBBY",
+    "btnQuit": "QUIT GAME"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "main": {
+    "title": "Mole in the Hole",
+    "btnStart": "INIZIA",
+    "btnOptions": "OPZIONI",
+    "btnCredits": "CREDITI",
+    "btnQuit": "ESCI",
+    "btnProfile": "PROFILO"
+  },
+  "options": {
+    "title": "OPZIONI",
+    "langLabel": "Lingua:",
+    "themeLabel": "Scegli un tema:",
+    "theme_meadow": "PRATO",
+    "theme_volcano": "VULCANO",
+    "theme_iceflow": "GHIACCIO",
+    "theme_desert": "DESERTO",
+    "soundLabel": "Effetti sonori:",
+    "soundOn": "ON",
+    "soundOff": "OFF",
+    "btnBack": "INDIETRO",
+    "cheatLabel": "MODALITÀ TRUCCHI",
+    "cheatOn": "ATTIVATO",
+    "cheatOff": "DISATTIVATO"
+  },
+  "credits": {
+    "title": "CREDITI",
+    "algo": "Algoritmo: Gwenael e Loïc",
+    "gui": "GUI: David, Gwenael e Abel",
+    "network": "Rete: Abel",
+    "music/sfx": "Integrazione effetti sonori e musica: Abel",
+    "basedOn": "Basato su \"Mole in the Hole\", pubblicato da Ravensburger nel 1995"
+  },
+  "play": {
+    "title": "Scegli la modalità",
+    "btnLocal": "LOCALE",
+    "btnOnline": "ONLINE",
+    "btnSolo": "SOLO",
+    "btnBack": "INDIETRO"
+  },
+  "profile": {
+    "title": "IL MIO PROFILO",
+    "nameLabel": "Tuo Nickname:",
+    "colorLabel": "Il tuo colore preferito",
+    "btnSave": "SALVA & INDIETRO"
+  },
+  "local": {
+    "title": "LOBBY LOCALE",
+    "player": "GIOCATORE",
+    "colorClick": "Colore (Clic):",
+    "btnRemove": "Rimuovi",
+    "mode": "MODALITÀ: < {0} >",
+    "boards": "TABELLONE: < {0} >",
+    "btnRotate": "RUOTA",
+    "btnPlace": "POSIZIONA",
+    "btnQuick": "PARTITA RAPIDA",
+    "btnLaunch": "GIOCA",
+    "btnBack": "INDIETRO",
+    "btnHuman": "Giocatore",
+    "btnBotEasy": "Bot (facile)",
+    "btnBotMedium": "Bot (medio)"
+  },
+  "online": {
+    "title": "LOBBY ONLINE",
+    "player": "GIOCATORE",
+    "colorClick": "Colore (Clic):",
+    "btnRemove": "Rimuovi",
+    "mode": "MODALITÀ: < {0} >",
+    "boards": "TABELLONE: < {0} >",
+    "btnRotate": "RUOTA",
+    "btnPlace": "POSIZIONA",
+    "btnQuick": "PARTITA RAPIDA",
+    "btnLaunch": "GIOCA",
+    "btnBack": "INDIETRO",
+    "btnHost": "SPIEL HOSTEN",
+    "btnJoin": "SPIEL BEITRETEN",
+    "profileTitle": "DEIN PROFIL",
+    "enteringLobby": "Betrete Lobby...",
+    "connectFail": "Verbindung zu {0} fehlgeschlagen!",
+    "btnCreate": "SERVER ERSTELLEN",
+    "discoveredGames": "Gefundene lokale Spiele:",
+    "searching": "Suche...",
+    "hostYou": "HOST (DU)",
+    "you": "DU",
+    "waitingPlayer": "Warte auf S{0}...",
+    "btnLeave": "LOBBY VERLASSEN",
+    "btnConfig": "SPIEL KONFIGURIEREN",
+    "waitingHost": "Warte auf den Host..."
+  },
+  "rotate": {
+    "title": "ORIENTAMENTO {0} / 4",
+    "btnLeft": "SINISTRA",
+    "btnRight": "DESTRA",
+    "btnValidate": "CONFERMA"
+  },
+  "place": {
+    "title": "FASE DI PIAZZAMENTO",
+    "turn": "TOCCA A TE, {0}!",
+    "remaining": "Pezzi da posizionare: {0} / {1}",
+    "doneTitle": "PIAZZAMENTO COMPLETATO!",
+    "btnValidate": "CONFERMA & CONTINUA"
+  },
+  "match": {
+    "title": "LIVELLO {0} / {1}",
+    "drawCard": "PESCA",
+    "drawPrompt": "Pesca una carta per giocare.",
+    "yourCard": "CARTA: {0}",
+    "turnOf": "TURNO DI {0}",
+    "movePrompt": "Seleziona una destinazione",
+    "selectPrompt": "Seleziona una delle tue talpe",
+    "btnPass": "PASSA TURNO",
+    "deckTitle": "MAZZO",
+    "cheatFill": "[ RIEMPI BUCHI ]"
+  },
+  "end": {
+    "title": "PARTITA FINITA",
+    "winner": "IL GIOCATORE {0} VINCE!",
+    "btnReplay": "RIGIOCA (STESSE IMPOSTAZIONI)",
+    "btnLobby": "TORNA ALLA LOBBY",
+    "btnQuit": "ESCI DAL GIOCO"
+  }
+}

@@ -1,0 +1,98 @@
+{
+"iceflow": {
+    "background": "#0D233A",
+    "bgImage": "assets/background/background_iceflow.png",
+    "texture_folder": "iceflow",
+    "titleColor": "#051424",
+    "btnNormal": "#0A1D37",
+    "btnHover": "#142847",
+    "boxBg": "#EAF0F6",
+    "boxOutline": "#051424",
+    "earthOutline": "#664422",
+    "barrierColor": "#00509E",
+    "earth_levels": {
+      "1": "#E0F7FA",
+      "2": "#B2EBF2",
+      "3": "#4DD0E1",
+      "4": "#00BCD4",
+      "5": "#0097A7",
+      "6": "#006064"
+    },
+    "validMove": "#9b59b6",
+    "textSecondary": "#101B26",
+    "cardBg": "white",
+    "cardDisabledBg": "#e0e0e0"
+  },
+  "volcano": {
+    "background": "#1C0606",
+    "bgImage": "assets/background/background_volcano.png",
+    "texture_folder": "volcano",
+    "titleColor": "#FFEA00",
+    "btnNormal": "white",
+    "btnHover": "#FFEA00",
+    "boxBg": "#000000",
+    "boxOutline": "#FF3D00",
+    "earthOutline": "#664422",
+    "barrierColor": "#FF4500",
+    "earth_levels": {
+      "1": "#424242",
+      "2": "#616161",
+      "3": "#D84315",
+      "4": "#BF360C",
+      "5": "#870000",
+      "6": "#3E0000"
+    },
+    "validMove": "#9b59b6",
+    "textSecondary": "gray",
+    "cardBg": "white",
+    "cardDisabledBg": "#e0e0e0"
+  },
+  "desert": {
+    "background": "#D4A373",
+    "bgImage": "assets/background/background_desert.png",
+    "texture_folder": "desert",
+    "titleColor": "#1A0D00",
+    "btnNormal": "black",
+    "btnHover": "#00695C",
+    "boxBg": "#FFFFFF",
+    "boxOutline": "#E65100",
+    "earthOutline": "#664422",
+    "barrierColor": "#8B4513",
+    "earth_levels": {
+      "1": "#FFE0B2",
+      "2": "#FFCC80",
+      "3": "#FFB74D",
+      "4": "#F57C00",
+      "5": "#E65100",
+      "6": "#BF360C"
+    },
+    "validMove": "#9b59b6",
+    "textSecondary": "gray",
+    "cardBg": "white",
+    "cardDisabledBg": "#e0e0e0"
+  },
+  "meadow": {
+    "background": "#87CEEB",
+    "bgImage": "assets/background/background_meadow.png",
+    "texture_folder": "meadow",
+    "titleColor": "#003300",
+    "btnNormal": "black",
+    "btnHover": "#2E7D32",
+    "boxBg": "#FFFFFF",
+    "boxOutline": "#0277BD",
+    "earthOutline": "#664422",
+    "barrierColor": "#8B0000",
+    "earth_levels": {
+      "1": "#D2B48C",
+      "2": "#B58860",
+      "3": "#8B5A2B",
+      "4": "#5C3A21",
+      "5": "#3E2723",
+      "6": "#1A0F08"
+    },
+    "validMove": "#9b59b6",
+    "textSecondary": "gray",
+    "cardBg": "white",
+    "cardDisabledBg": "#e0e0e0"
+  }
+}

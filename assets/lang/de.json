@@ -1,0 +1,122 @@
+{
+  "main": {
+    "title": "Mole in the Hole",
+    "btnStart": "SPIEL STARTEN",
+    "btnOptions": "OPTIONEN",
+    "btnCredits": "CREDITS",
+    "btnQuit": "BEENDEN",
+    "btnProfile": "PROFIL"
+  },
+  "options": {
+    "title": "OPTIONEN",
+    "langLabel": "Sprache:",
+    "themeLabel": "Thema wählen:",
+    "theme_meadow": "WIESE",
+    "theme_volcano": "VULKAN",
+    "theme_iceflow": "EIS",
+    "theme_desert": "WÜSTE",
+    "soundLabel": "Soundeffekte:",
+    "soundOn": "AN",
+    "soundOff": "AUS",
+    "btnBack": "ZURÜCK",
+    "cheatLabel": "CHEAT-MODUS",
+    "cheatOn": "AKTIVIERT",
+    "cheatOff": "DEAKTIVIERT"
+  },
+  "credits": {
+    "title": "CREDITS",
+    "algo": "Algorithmus: Gwenael und Loïc",
+    "gui": "GUI: David, Gwenael und Abel",
+    "network": "Netzwerk: Abel",
+    "music/sfx": "Integration von Soundeffekten und Musik: Abel",
+    "basedOn": "Basierend auf „Mole in the Hole“, erschienen bei Ravensburger, 1995"
+  },
+  "play": {
+    "title": "Wähle deinen Modus",
+    "btnLocal": "LOKAL",
+    "btnOnline": "ONLINE",
+    "btnSolo": "SOLO",
+    "btnBack": "ZURÜCK"
+  },
+  "profile": {
+    "title": "MEIN PROFIL",
+    "nameLabel": "Dein Nickname:",
+    "colorLabel": "Deine Lieblingsfarbe",
+    "btnSave": "SPEICHERN & ZURÜCK"
+  },
+  "local": {
+    "title": "LOKALE LOBBY",
+    "player": "SPIELER",
+    "colorClick": "Farbe (Klick):",
+    "btnRemove": "Entfernen",
+    "mode": "MODUS: < {0} >",
+    "boards": "SPIELFELD: < {0} >",
+    "btnRotate": "DREHEN",
+    "btnPlace": "PLATZIEREN",
+    "btnQuick": "SCHNELLES SPIEL",
+    "btnLaunch": "SPIELEN",
+    "btnBack": "ZURÜCK",
+    "btnHuman": "Mensch",
+    "btnBotEasy": "Bot (einfach)",
+    "btnBotMedium": "Bot (mittel)"
+  },
+  "online": {
+    "title": "ONLINE LOBBY",
+    "player": "SPIELER",
+    "colorClick": "Farbe (Klick):",
+    "btnRemove": "Entfernen",
+    "mode": "MODUS: < {0} >",
+    "boards": "SPIELFELD: < {0} >",
+    "btnRotate": "DREHEN",
+    "btnPlace": "PLATZIEREN",
+    "btnQuick": "SCHNELLES SPIEL",
+    "btnLaunch": "SPIELEN",
+    "btnBack": "ZURÜCK",
+    "btnHost": "SPIEL HOSTEN",
+    "btnJoin": "SPIEL BEITRETEN",
+    "profileTitle": "DEIN PROFIL",
+    "enteringLobby": "Betrete Lobby...",
+    "connectFail": "Verbindung zu {0} fehlgeschlagen!",
+    "btnCreate": "SERVER ERSTELLEN",
+    "discoveredGames": "Gefundene lokale Spiele:",
+    "searching": "Suche...",
+    "hostYou": "HOST (DU)",
+    "you": "DU",
+    "waitingPlayer": "Warte auf S{0}...",
+    "btnLeave": "LOBBY VERLASSEN",
+    "btnConfig": "SPIEL KONFIGURIEREN",
+    "waitingHost": "Warte auf den Host..."
+  },
+  "rotate": {
+    "title": "DREHUNG {0} / 4",
+    "btnLeft": "LINKS",
+    "btnRight": "RECHTS",
+    "btnValidate": "BESTÄTIGEN"
+  },
+  "place": {
+    "title": "PLATZIERUNGSPHASE",
+    "turn": "DU BIST DRAN, {0}!",
+    "remaining": "Punkte zu platzieren: {0} / {1}",
+    "doneTitle": "PLATZIERUNG ABGESCHLOSSEN!",
+    "btnValidate": "BESTÄTIGEN & WEITER"
+  },
+  "match": {
+    "title": "LEVEL {0} / {1}",
+    "drawCard": "KARTE ZIEHEN",
+    "drawPrompt": "Ziehe eine Karte, um zu spielen.",
+    "yourCard": "KARTE: {0}",
+    "turnOf": "{0} IST DRAN",
+    "movePrompt": "Ziel auswählen",
+    "selectPrompt": "Wähle einen deiner Maulwürfe",
+    "btnPass": "ZUG ÜBERSPRINGEN",
+    "deckTitle": "STAPEL",
+    "cheatFill": "[ LÖCHER FÜLLEN ]"
+  },
+  "end": {
+    "title": "SPIEL VORBEI",
+    "winner": "SPIELER {0} GEWINNT!",
+    "btnReplay": "NOCHMAL (GLEICHE EINSTELLUNGEN)",
+    "btnLobby": "ZURÜCK ZUR LOBBY",
+    "btnQuit": "SPIEL BEENDEN"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "main": {
+    "title": "Mole in the Hole",
+    "btnStart": "INICIAR JUEGO",
+    "btnOptions": "OPCIONES",
+    "btnCredits": "CRÉDITOS",
+    "btnQuit": "SALIR",
+    "btnProfile": "PERFIL"
+  },
+  "options": {
+    "title": "OPCIONES",
+    "langLabel": "Idioma:",
+    "themeLabel": "Elige un tema:",
+    "theme_meadow": "PRADO",
+    "theme_volcano": "VOLCÁN",
+    "theme_iceflow": "HIELO",
+    "theme_desert": "DESIERTO",
+    "soundLabel": "Efectos de sonido:",
+    "soundOn": "ENCENDIDO",
+    "soundOff": "APAGADO",
+    "btnBack": "VOLVER",
+    "cheatLabel": "MODO TRAMPAS",
+    "cheatOn": "ACTIVADO",
+    "cheatOff": "DESACTIVADO"
+  },
+  "credits": {
+    "title": "CRÉDITOS",
+    "algo": "Algoritmo: Gwenael y Loïc",
+    "gui": "GUI: David, Gwenael y Abel",
+    "network": "Red: Abel",
+    "music/sfx": "Intégration des effets sonores/musique: Abel",
+    "basedOn": "Basado en «Mole in the Hole», publicado por Ravensburger en 1995"
+  },
+  "play": {
+    "title": "Elige tu modo",
+    "btnLocal": "LOCAL",
+    "btnOnline": "EN LÍNEA",
+    "btnSolo": "SOLO",
+    "btnBack": "VOLVER"
+  },
+  "profile": {
+    "title": "MI PERFIL",
+    "nameLabel": "Tu Nickname:",
+    "colorLabel": "Tu color favorito",
+    "btnSave": "GUARDAR & VOLVER"
+  },
+  "local": {
+    "title": "LOBBY LOCAL",
+    "player": "JUGADOR",
+    "colorClick": "Color (Clic):",
+    "btnRemove": "Eliminar",
+    "mode": "MODO: < {0} >",
+    "boards": "TABLERO: < {0} >",
+    "btnRotate": "ROTAR",
+    "btnPlace": "COLOCAR",
+    "btnQuick": "PARTIDA RÁPIDA",
+    "btnLaunch": "JUGAR",
+    "btnBack": "VOLVER",
+    "btnHuman": "Humano",
+    "btnBotEasy": "Bot (fácil)",
+    "btnBotMedium": "Bot (medio)"
+  },
+  "online": {
+    "title": "LOBBY EN LÍNEA",
+    "player": "JUGADOR",
+    "colorClick": "Color (Clic):",
+    "btnRemove": "Eliminar",
+    "mode": "MODO: < {0} >",
+    "boards": "TABLERO: < {0} >",
+    "btnRotate": "ROTAR",
+    "btnPlace": "COLOCAR",
+    "btnQuick": "PARTIDA RÁPIDA",
+    "btnLaunch": "JUGAR",
+    "btnBack": "VOLVER",
+    "btnHost": "CREAR PARTIDA",
+    "btnJoin": "UNIRSE",
+    "profileTitle": "TU PERFIL",
+    "enteringLobby": "Entrando al lobby...",
+    "connectFail": "¡Error al conectar a {0}!",
+    "btnCreate": "CREAR SERVIDOR",
+    "discoveredGames": "Partidas locales encontradas:",
+    "searching": "Buscando...",
+    "hostYou": "HOST (TÚ)",
+    "you": "TÚ",
+    "waitingPlayer": "Esperando a J{0}...",
+    "btnLeave": "SALIR DEL LOBBY",
+    "btnConfig": "CONFIGURAR PARTIDA",
+    "waitingHost": "Esperando al Host..."
+  },
+  "rotate": {
+    "title": "ORIENTACIÓN {0} / 4",
+    "btnLeft": "IZQUIERDA",
+    "btnRight": "DERECHA",
+    "btnValidate": "CONFIRMAR"
+  },
+  "place": {
+    "title": "FASE DE COLOCACIÓN",
+    "turn": "¡ES TU TURNO, {0}!",
+    "remaining": "Piezas a colocar: {0} / {1}",
+    "doneTitle": "¡COLOCACIÓN COMPLETADA!",
+    "btnValidate": "CONFIRMAR & CONTINUAR"
+  },
+  "match": {
+    "title": "NIVEL {0} / {1}",
+    "drawCard": "ROBAR",
+    "drawPrompt": "Roba una carta para jugar.",
+    "yourCard": "CARTA: {0}",
+    "turnOf": "TURNO DE {0}",
+    "movePrompt": "Selecciona un destino",
+    "selectPrompt": "Selecciona uno de tus topos",
+    "btnPass": "PASAR TURNO",
+    "deckTitle": "MAZO",
+    "cheatFill": "[ LLENAR AGUJEROS ]"
+  },
+  "end": {
+    "title": "JUEGO TERMINADO",
+    "winner": "¡EL JUGADOR {0} GANA!",
+    "btnReplay": "REJUGAR (MISMOS AJUSTES)",
+    "btnLobby": "VOLVER AL LOBBY",
+    "btnQuit": "SALIR DEL JUEGO"
+  }
+}

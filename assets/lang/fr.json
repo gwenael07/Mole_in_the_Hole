@@ -1,0 +1,128 @@
+{
+  "main": {
+    "title": "Mole in the Hole",
+    "btnStart": "JOUER",
+    "btnOptions": "OPTIONS",
+    "btnCredits": "CREDITS",
+    "btnQuit": "QUITTER",
+    "btnProfile": "PROFIL"
+  },
+  "options": {
+    "title": "OPTIONS",
+    "langLabel": "Langue du jeu :",
+    "themeLabel": "Choisir un thème :",
+    "theme_meadow": "PRAIRIE",
+    "theme_volcano": "VOLCAN",
+    "theme_iceflow": "BANQUISE",
+    "theme_desert": "DESERT",
+    "soundLabel": "Effets sonores :",
+    "soundOn": "ACTIVÉ",
+    "soundOff": "DÉSACTIVÉ",
+    "btnBack": "RETOUR",
+    "cheatLabel": "MODE TRICHE",
+    "cheatOn": "ACTIVÉ",
+    "cheatOff": "DÉSACTIVÉ"
+  },
+  "credits": {
+    "title": "CRÉDITS",
+    "algo": "Algorithme: Gwenael et Loïc",
+    "gui": "GUI: David, Gwenael et Abel",
+    "network": "Réseau: Abel",
+    "music/sfx": "Intégration des effets sonores/musique: Abel",
+    "basedOn": "Basé sur le jeu \"Mole in the Hole\" publié par Ravensburger, 1995"
+  },
+  "play": {
+    "title": "Choisis ton mode",
+    "btnLocal": "LOCAL",
+    "btnOnline": "EN LIGNE",
+    "btnSolo": "SOLO",
+    "btnBack": "RETOUR"
+  },
+  "profile": {
+    "title": "MON PROFIL",
+    "nameLabel": "Ton Pseudo :",
+    "colorLabel": "Ta Couleur préféré",
+    "btnRed": "ROUGE",
+    "btnBlue": "BLEU",
+    "btnGreen": "VERT",
+    "btnSave": "SAUVEGARDER & RETOUR"
+  },
+  "local": {
+    "title": "LOBBY LOCAL",
+    "player": "JOUEUR",
+    "colorClick": "Couleur (Clic) :",
+    "btnRemove": "Retirer",
+    "mode": "MODE : < {0} >",
+    "boards": "PLATEAU : < {0} >",
+    "btnRotate": "ROTATION",
+    "btnPlace": "PLACEMENT",
+    "btnQuick": "JOUER TOUT DE SUITE",
+    "btnLaunch": "JOUER",
+    "btnBack": "RETOUR",
+    "btnHuman": "Joueur",
+    "btnBotEasy": "Bot (facile)",
+    "btnBotMedium": "Bot (moyen)"
+  },
+  "online": {
+    "title": "LOBBY EN LIGNE",
+    "player": "JOUEUR",
+    "colorClick": "Couleur (Clic) :",
+    "btnRemove": "Retirer",
+    "mode": "MODE : < {0} >",
+    "boards": "PLATEAU : < {0} >",
+    "btnRotate": "ROTATION",
+    "btnPlace": "PLACEMENT",
+    "btnQuick": "JOUER TOUT DE SUITE",
+    "btnLaunch": "JOUER",
+    "btnBack": "RETOUR",
+    "btnHost": "HÉBERGER",
+    "btnJoin": "REJOINDRE",
+    "profileTitle": "TON PROFIL",
+    "enteringLobby": "Connexion au lobby...",
+    "connectFail": "Échec de connexion à {0} !",
+    "btnCreate": "CRÉER SERVEUR",
+    "discoveredGames": "Parties locales trouvées :",
+    "searching": "Recherche en cours...",
+    "hostYou": "HÔTE (TOI)",
+    "you": "TOI",
+    "waitingPlayer": "Attente de J{0}...",
+    "btnLeave": "QUITTER LOBBY",
+    "btnConfig": "CONFIGURER PARTIE",
+    "waitingHost": "Attente de l'hôte..."
+  },
+  "rotate": {
+    "title": "ORIENTATION PLATEAU {0} / 4",
+    "btnLeft": "GAUCHE",
+    "btnRight": "DROITE",
+    "btnValidate": "VALIDER",
+    "btnBack": "RETOUR",
+    "btnBot": "BOT (IA)",
+    "btnHuman": "HUMAIN"
+  },
+  "place": {
+    "title": "PHASE DE PLACEMENT",
+    "turn": "À TOI DE JOUER, {0} !",
+    "remaining": "Tes pions à placer : {0} / {1}",
+    "doneTitle": "PLACEMENT TERMINÉ !",
+    "btnValidate": "VALIDER ET CONTINUER"
+  },
+  "match": {
+    "title": "NIVEAU {0} / {1}",
+    "drawCard": "PIOCHER",
+    "drawPrompt": "Piochez une carte pour jouer.",
+    "yourCard": "CARTE : {0}",
+    "turnOf": "AU TOUR DE : {0}",
+    "movePrompt": "Sélectionnez une destination",
+    "selectPrompt": "Sélectionnez une de vos taupes",
+    "btnPass": "PASSER LE TOUR",
+    "deckTitle": "PIOCHE",
+    "cheatFill": "[ REMPLIR TROUS ]"
+  },
+  "end": {
+    "title": "FIN DE LA PARTIE",
+    "winner": "LE JOUEUR {0} REMPORTE LA VICTOIRE !",
+    "btnReplay": "REJOUER (MÊMES PARAMÈTRES)",
+    "btnLobby": "RETOUR AU LOBBY",
+    "btnQuit": "QUITTER LE JEU"
+  }
+}
