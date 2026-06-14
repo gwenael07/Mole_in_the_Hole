@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["gui", "algo", "audio", "network", "assets"]
+py-modules = ["main"]
+
+[project]
+name = "mole-in-the-hole"
+version = "1.0.0"
+description = "Jeu de plateau 'Mole in the Hole' en Python avec Tkinter."
+readme = "README.md"
+requires-python = ">=3.9"
+authors = [
+    { name = "David"},
+    { name = "Abel" },
+    { name = "Loïc" },
+    { name = "Gwenael" }
+]
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "Pillow>=10.0.0",
+    "miniaudio>=1.59"
+]
+
+[project.scripts]
+mole-in-the-hole = "main:main"
+
+[project.urls]
+Homepage = "https://github.com/Daith-42/1PROJ-Projet-1er-annee-SUPINFO"
